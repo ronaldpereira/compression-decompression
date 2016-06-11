@@ -1,0 +1,304 @@
+Space Exploration Technologies Corporation (SpaceX) is an American aerospace manufacturer and space transport services company with its headquarters in Hawthorne, California, USA. It was founded in 2002 by former PayPal entrepreneur and Tesla Motors CEO Elon Musk with the goal of creating the technologies to reduce space transportation costs and enable the colonization of Mars. It has developed the Falcon 1 and Falcon 9 launch vehicles, both of which were designed from conception to eventually become reusable, and the Dragon spacecraft which is flown into orbit by the Falcon 9 launch vehicle to supply the International Space Station (ISS) with cargo. A manned version of Dragon is in development.
+
+SpaceX's achievements include the first privately funded, liquid-propellant rocket (Falcon 1) to reach orbit, in 2008;[7] the first privately funded company to successfully launch, orbit and recover a spacecraft (Dragon), in 2010; and the first private company to send a spacecraft (Dragon) to the ISS, in 2012.[8] The launch of SES-8, in 2013, was the first SpaceX delivery into geosynchronous orbit, while the launch of the Deep Space Climate Observatory (DSCOVR), in 2015, was the company's first delivery beyond Earth orbit. On December 21, 2015, SpaceX successfully returned a first stage back to the launch site and accomplished a vertical landing, the first such accomplishment by a rocket on an orbital trajectory.[9]
+
+NASA awarded the company a Commercial Orbital Transportation Services (COTS) contract in 2006, to design and demonstrate a launch system to resupply cargo to the International Space Station (ISS). SpaceX, as of May 2015 has flown six missions to the ISS under a cargo resupply contract.[10] NASA also awarded SpaceX a contract in 2011 to develop and demonstrate a human-rated Dragon as part of its Commercial Crew Development (CCDev) program to transport crew to the ISS.[11]
+
+
+Launch of Falcon 9 carrying ORBCOMM OG2-M1
+
+Falcon 9 carrying CRS-7 Dragon on SLC-40 pad
+Contents  [hide] 
+1 History
+1.1 History
+1.2 Funding
+1.3 Goals
+1.4 Setbacks
+1.4.1 Reusable rockets
+1.4.2 Failed launches
+1.4.3 Issues in flight
+2 Facilities
+2.1 Headquarters and rocket manufacturing plant
+2.2 Satellite development facility
+2.3 Regional offices
+2.4 Test and post-flight disassembly facilities
+2.5 Flight operations
+2.5.1 New commercial-only launch site
+2.5.2 Crewed-mission leased launch site
+3 NASA collaborations
+3.1 Commercial cargo contracts
+3.2 Commercial crew contracts
+3.3 "Red Dragon" Mars mission concept
+4 Other contracts
+4.1 Launch market competition and pricing pressure
+5 Commercial and government launch contracts summary
+6 Space vehicles
+6.1 Falcon launch vehicles
+6.2 Dragon
+6.3 Other concepts under development
+7 Rocket engines
+8 See also
+9 References
+10  Further reading
+11  External links
+History[edit]
+
+The company's headquarters, located in Hawthorne, California.
+
+SpaceX employees with the Dragon capsule at SpaceX HQ in Hawthorne, California, February, 2015.
+History[edit]
+SpaceX was founded in June 2002 by Elon Musk; his vision was to build a simple and relatively inexpensive reusable rocket that would go into space multiple times; similar to the turn around time capabilities that commercial airliners currently exhibit.
+
+In 2001, Musk conceptualized "Mars Oasis"; a project to land a miniature experimental greenhouse on Mars, containing seeds with dehydrated gel, hydrating the gel and having plants grow on Martian soil, "so this would be the furthest that life’s ever traveled"[12] in an attempt to regain public interest in space exploration and increase the Budget of NASA.[13][14][15] But Musk realized that even with a much larger space budget, travel to Mars would be prohibitively expensive and that a fundamental breakthrough in rocket technology was needed.[15] In October 2001, Musk travelled to Moscow with Jim Cantrell (an aerospace supplies fixer), and Adeo Ressi (his best friend from college), to buy refurbished ICBMs (Dnepr-1) that could send the envisioned payloads into space.[16] The group met with companies such as Lavochkin and ISC Kosmotras. However, according to Cantrell, Musk was seen as a novice and was consequently spat on by one of the Russian chief designers, and the group returned to the US empty-handed.[17] In February 2002, the group returned to Russia to look for three ICBMs, bringing along Mike Griffin, who had worked for the CIA’s venture capital arm, In-Q-Tel; NASA's Jet Propulsion Laboratory; and was just leaving Orbital Sciences Corporation, a maker of satellites and spacecraft. The group met again with Kosmotras, and were offered one rocket for US$8 million. However, this was seen by Musk as too expensive; Musk consequently stormed out of the meeting. On the flight back from Moscow, Musk realized that he could start a company that could build the affordable rockets he needed.[17] According to early Tesla and SpaceX investor Steve Jurvetson,[18] Musk calculated that the raw materials for building a rocket actually were only 3 percent of the sales price of a rocket at the time. By applying vertical integration—principally for cost reasons;[16] around 85% of the entire Falcon/Dragon vehicle is produced in-house[19][20]— and the modular approach from software engineering (Falcon 9 uses 9 of the Merlin engines, which were tested on the single engine Falcon 1, Falcon Heavy uses three Falcon 9 booster stages), SpaceX could cut launch price by a factor of ten and still enjoy a 70 percent gross margin.[21] Another reason for vertical integration is that Musk thinks reusable rockets cannot be built with components from existing suppliers, that all the other aerospace companies are buying from as well. For example, SpaceX had to design a machine that could friction stir weld aluminium-lithium alloy for the airframe of the Falcon 9, because such a machine did not exist anywhere in the world.[22] According to Musk, SpaceX started with the smallest useful orbital rocket (Falcon 1 with about 1000 lbs to orbit), instead of building something larger and more complicated, which could have failed and bankrupted the company.[23]
+
+In early 2002, Musk was seeking staff for his new space company, soon to be named SpaceX. Musk approached renowned rocket engineer Tom Mueller (now SpaceX's VP of Propulsion), Mueller agreed to work for Musk and SpaceX was born.[24] SpaceX was first headquartered in a 75,000 square feet warehouse in El Segundo, California. Musk decided SpaceX's first rocket would be named Falcon 1, a nod to Star Wars' Millennium Falcon. Musk planned for Falcon 1's first launch to occur in November 2003, 15 months after the company started.[17]
+
+In January 2005, SpaceX bought a 10% stake in Surrey Satellite Technology.[25]
+
+By March 2006, Musk had invested US$100 million of his own money into the company.[26]
+
+On August 4, 2008, SpaceX accepted a further $20 million investment from Founders Fund.[27] In early 2012, approximately two-thirds of the company was owned by its founder[28] and his 70 million shares were then estimated to be worth $875 million on private markets,[29] which roughly valued SpaceX at $1.3 billion as of February 2012.[30] After the COTS 2+ flight in May 2012, the company private equity valuation nearly doubled to $2.4 billion.[31][32]
+
+On 16 June 2009, SpaceX announced the opening of its Astronaut Safety and Mission Assurance Department. It hired former NASA astronaut Ken Bowersox to oversee the department as a vice president of the company.[33] However, it has since been reported that the former astronaut subsequently left SpaceX in late 2011. No reason was given and no replacement in that position has been announced.[34]
+
+In 2010, Musk's calculations convinced him that the colonization of Mars was possible.[35]
+
+In 2012, an initial public offering (IPO) was perceived as possible by the end of 2013,[36] but then Musk stated in June 2013 that he planned to hold off any potential IPO until after the "Mars Colonial Transporter is flying regularly,"[37] and this was reiterated in 2015 indicating that it would be many years before SpaceX would become a publicly traded company,[38][39] where Musk stated that "I just don’t want [SpaceX] to be controlled by some private equity firm that would milk it for near-term revenue"[40]
+
+
+Falcon 9 rocket's first stage on the landing pad after the first successful vertical landing of an orbital rocket stage.
+The company has grown rapidly since it was founded in 2002, growing from 160 employees in November 2005 to more than 500 by July 2008, to over 1,100 in 2010,[41][42] 1800 in early 2012,[43] and 3000 by early 2013.[44] The company had grown to 3,800 employees and contractors by October 2013,[45] and had "nearly 5,000" in late 2015[1] and February 2016.[2]
+
+Achievements of SpaceX include:[46]
+
+The first privately funded, liquid-fueled rocket (Falcon 1) to reach orbit (28 September 2008)
+The first privately funded company to successfully launch (by Falcon 9) orbit and recover a spacecraft (Dragon) (9 December 2010)
+The first private company to send a spacecraft (Dragon) to the International Space Station (25 May 2012)
+The first private company to send a satellite into geosynchronous orbit (SES-8, 3 December 2013)
+The first landing of a first stage orbital capable rocket (Falcon 9) (22 December 2015 1:39 UTC)
+On 22 December 2015 at around 1:29 UTC SpaceX launched an upgraded Falcon 9 rocket from Cape Canaveral Air Force Station into low Earth orbit. After completing its primary burn, the first stage of the multistage rocket detached from the second stage as usual. The first stage then fired some of its engines to send it back to Cape Canaveral, where it achieved the world's first successful landing of a rocket that was used for an orbital launch. The landing happened at around 1:39 UTC on December 22. Stage two successfully deployed eleven communication satellites for Orbcomm.[47]
+
+Funding[edit]
+SpaceX is a privately funded space transportation company.[48] It developed its first launch vehicle—Falcon 1—and three rocket engines—Merlin, Kestrel, and Draco—completely with private capital. SpaceX contracted with the US government for a portion of the development funding for the Falcon 9 launch vehicle, which uses a modified version of the Merlin rocket engine.[48] SpaceX is developing the Falcon Heavy launch vehicle,[49] the Raptor methane-fueled rocket engine,[50] and a set of reusable launch vehicle technologies with private capital.[51]
+
+As of May 2012, SpaceX had operated on total funding of approximately $1 billion in its first ten years of operation. Of this, private equity provided about $200M, with Musk investing approximately $100M and other investors having put in about $100M (Founders Fund, Draper Fisher Jurvetson, ...).[52] The remainder has come from progress payments on long-term launch contracts and development contracts. As of April 2012, NASA had put in about $400–500M of this amount, with most of that as progress payments on launch contracts.[53] By May 2012, SpaceX had contracts for 40 launch missions, and each of those contracts provide down payments at contract signing, plus many are paying progress payments as launch vehicle components are built in advance of mission launch, driven in part by US accounting rules for recognizing long-term revenue.[53]
+
+In August 2012, SpaceX signed a large development contract with NASA to design and develop a crew-carrying space capsule for the "next generation of U.S. human spaceflight capabilities", in order to re-enable the launch of astronauts from U.S. soil by 2017. Two other companies, Boeing and Sierra Nevada Corporation, received similar development contracts. Advances made by all three companies under Space Act Agreements through NASA's Commercial Crew Integrated Capability (CCiCap) initiative are intended to ultimately lead to the availability of commercial human spaceflight services for both government and commercial customers. As part of this agreement, SpaceX was awarded a contract worth up to $440 million for contract deliverables between 2012 and May 2014.[54][55]
+
+At year-end 2012, SpaceX had over 40 launches on its manifest representing about $4 billion in contract revenue—with many of those contracts already making progress payments to SpaceX—with both commercial and government (NASA/DOD) customers.[56] As of December 2013, SpaceX has a total of 50 future launches under contract, two-thirds of them are for commercial customers.[57][58] In late 2013, space industry media began to comment on the phenomenon that SpaceX prices are undercutting the major competitors in the commercial commsat launch market—the Ariane 5 and Proton-M[59]—at which time SpaceX had at least 10 further geostationary orbit flights on its books.[58]
+
+In January 2015, SpaceX raised $1 billion in funding from Google and Fidelity, in exchange for 8.333% of the company, establishing the company valuation at approximately $12 billion. Google and Fidelity joined the then current investorship group of Draper Fisher Jurvetson, Founders Fund, Valor Equity Partners and Capricorn.[60][61] Although the investment was thought to be related to SpaceX's launch of a satellite construction business and global satellite internet service effort,[62] Gwynne Shotwell said in March 2015 that the investment was not specifically for the global internet project.[63] Google had been searching for a satellite internet partner since the split with O3b Networks and OneWeb.[64]
+
+Goals[edit]
+
+Conceptual render of Falcon Heavy at Pad 39A
+Musk has stated that one of his goals is to improve the cost and reliability of access to space, ultimately by a factor of ten.[65] The company plans in 2004 called for "development of a heavy lift product and even a super-heavy, if there is customer demand" with each size increase resulting in a significant decrease in cost per pound to orbit. CEO Elon Musk said: "I believe $500 per pound ($1,100/kg) or less is very achievable."[66]
+
+He stated in a 2011 interview that he hopes to send humans to Mars' surface within 10–20 years.[67] In June 2013, Musk used the descriptor Mars Colonial Transporter to refer to the privately funded development project to design and build a spaceflight system of rocket engines, launch vehicles and space capsules to transport humans to Mars and return to Earth.[37] In March 2014, COO Gwynne Shotwell said that once the Falcon Heavy and Dragon v2 crew version are flying, the focus for the company engineering team will be on developing the technology to support the transport infrastructure necessary for Mars missions.[68] According to Steve Jurvetson, Musk believes that by 2035 at the latest, there will be thousands of rockets flying a million people to Mars, in order to enable a self-sustaining human colony.[69]
+
+SpaceX has on occasion developed new engineering development technologies to enable it to pursue its various goals. In 2015, public sources revealed that SpaceX is developing their own computational fluid dynamics (CFD) software to improve the simulation capability of evaluating rocket engine combustion design.[70]
+
+In June 2015 the company asked the federal government for permission to begin testing for a project that aims to build a constellation of 4000 satellites capable of beaming the Internet to the entire globe, including remote regions which currently do not have internet access.[71][72]
+
+Musk's long term vision for the company is the development of technology and resources suitable for human colonization on Mars. He has expressed his interest in someday traveling to the planet. As he has stated, "I'd like to die on Mars, just not on impact."[73]
+
+Setbacks[edit]
+Reusable rockets[edit]
+
+SpaceX ASDS in position prior to Falcon 9 Flight 17 carrying CRS-6
+SpaceX has been attempting autonomous landing of the first stage of some of their rockets. As a result of Elon Musk's goal of crafting more cost-effective launch vehicles, SpaceX conceived a method to reuse the first stage of their primary rocket, the Falcon 9. Previous attempts have brought the preliminary stage of two Falcon 9 rockets safely back to Earth, though these have only been tests.[74] These landings were able to slow down to an appropriate velocity before landing and successfully deploy the legs the rocket lands on, however these instances were held in the ocean, not on a launch pad at one of their own facilities. Once the company knew the landings were feasible, they began tests to see if the rocket could land on a solid platform. SpaceX crafted an autonomous barge to sit out at sea as a target for the returning first stage.
+
+On January 10, 2015 CRS-5, or Commercial Resupply Service 5, launched with the rocket stage set to be the first to land and be reused.[74] The craft made it to the barge, though it came in too fast and “landed hard,” tweeted Musk. The rocket tipped, landed mostly in the water and was mostly destroyed from the damages of impact. The drone ship experienced some structural damages, but nothing irreparable. The cause was discovered to be the grid fins used on the craft during the descent to stabilize it ran out of hydraulic fluid and ceased to function properly.[75]
+
+On their next attempt during CRS-6, SpaceX was once again able to hit their target, however two issues occurred during the landing. The first was that the craft came in with a higher than expected lateral velocity, though the craft still made contact with the “autonomous spaceport drone ship.” Since the spacecraft was drifting sideways, the bipropellant for the rocket’s attitude control should have kept it from tipping, however a valve became stuck and kept the craft from reacting to the issue quickly. The rocket once again tipped over into the water and was mostly destroyed. Both destroyed spaceships were brought back to SpaceX facilities for analysis. Though both landings of the rocket stages resulted in failures, the Dragon capsules for each mission made it to the International Space Station safely.[76]
+
+An attempt in December 2015 marked success, as they landed the booster from their second mission partnered with Orbcomm at Landing Zone 1 at Kennedy Space Center.[77] 
+
+In January 2016 another drone ship landing attempt was made. The craft met the drone ship, landing 1.3 meters from the center of the landing surface,[78] at a suitable speed; however a landing leg failed to lock, and the stage tipped over thus destroying the rocket. The leg latch failure was attributed to ice condensation from fog at Vandenberg prior to launch.[79]
+
+Failed launches[edit]
+On June 28, 2015, CRS-7 launched a Falcon 9 topped with an unmanned Dragon capsule destined to bring supplies to the International Space Station. All statistics were nominal until 2 minutes and 19 seconds into the flight when a cloud of vapor formed outside the craft, seen by the tracking camera. A few seconds after this cloud formed, there was a loss of helium tank pressure, after which the tanks exploded and caused a complete failure of the mission.[80] The problem was discovered to be a failed strut on the helium pressure vessels that broke due to the force of acceleration. This caused a breach and allowed helium to escape causing the demise of the spacecraft. An issue with the software caused the command to open the parachute for the Dragon capsule to never run, thus destroying most of the capsule. SpaceX plans to move past the issue while also learning from it by inspecting each of the struts, like that which failed, to ensure they have been manufactured correctly and will function properly. The software issue was also fixed in addition to an analysis of the entire program in order to ensure proper abort mechanisms are in place for future rockets and their payload.[81] SpaceX President Gwynne Shotwell stated that in terms of the differences between the six previous successful Falcon 9 Commercial Resupply Launches, “there’s nothing that stands out as being different for any particular flight.” Though the craft was set to bring a resupply of food and water to the ISS, the crew members had enough supplies to last another 4 months before another resupply, which would end up being the Russian Progress 60P vehicle.[82] Student science experiments as well as a docking adapter and other miscellaneous cargo was set to be brought on CRS-7 as well.[83]
+
+Issues in flight[edit]
+On March 1, 2013, a Dragon spacecraft in orbit developed issues with its thrusters. Due to blocked fuel valves, the craft was unable to properly control itself. SpaceX engineers were able to find a way to clear the blockages remotely. However, under Traffic in Arms regulations, SpaceX Mission controllers were unable to release more information to the public, as spacecraft like the Dragon are classifed as munitions, and considered weapons. As a result, the craft arrived at and docked with the International Space Station one day later than expected because of this issue.[84]
+
+Facilities[edit]
+Headquarters and rocket manufacturing plant[edit]
+
+Falcon 9 v1.1 rocket cores under construction at the SpaceX Hawthorne facility, November 2014.
+SpaceX Headquarters is located in the Los Angeles suburb of Hawthorne at 1 Rocket Road, Hawthorne, California. The large, three story facility, originally built by Northrop Corporation to build Boeing 747 fuselages,[85] houses SpaceX's office space, mission control, and vehicle factory. The area has one of the largest concentrations of aerospace headquarters, facilities, and/or subsidiaries in the U.S., including Boeing/McDonnell Douglas main satellite building campuses, Raytheon, NASA's Jet Propulsion Laboratory, Lockheed Martin, BAE Systems, Northrop Grumman, and AECOM, etc., with a large pool of aerospace engineers and recent college engineering graduates.[86]
+
+SpaceX utilizes a high degree of vertical integration in the production of its rockets and rocket engines.[16] Unusually for the aerospace industry, SpaceX builds its rocket engines, rocket stages, spacecraft, principal avionics and all software in-house in their Hawthorne facility. Nevertheless, SpaceX still has over 3000 suppliers with some 1100 of those delivering to SpaceX nearly weekly.[87]
+
+Satellite development facility[edit]
+Main article: SpaceX satellite development facility
+In January 2015, SpaceX announced it would be entering the satellite production business and global satellite internet business. The satellite factory would be located in Seattle, Washington. The office will initially have approximately 60 engineers, with the potential to grow to 1,000 over several years. The internet service would use a satellite constellation of 4,000 communications satellites in 1100 km orbits, and start operations in 2020. The goal of the business is to increase profitability and cashflow, to allow SpaceX to build its Mars colony.[38]
+
+Regional offices[edit]
+SpaceX has regional offices in Houston, Texas; Chantilly, Virginia; and Washington, D.C.[88] and opened an office in the Seattle region in 2014 from which it is heavily recruiting engineers and software developers.[89]
+
+Test and post-flight disassembly facilities[edit]
+For more details on this topic, see SpaceX McGregor.
+SpaceX has two rocket test facilities: the SpaceX Rocket Development and Test Facility in McGregor, Texas and a leased VTVL (vertical takeoff, vertical landing) test facility at Spaceport America in southern New Mexico. All SpaceX rocket engines are tested on rocket test stands, and low-altitude VTVL flight testing of the Falcon 9 Grasshopper v1.0 and F9R Dev1 test vehicles were done at McGregor. High-altitude, high-velocity flight testing of the followon F9R Dev2 test vehicle are planned to begin at Spaceport America in 2015. In addition, the McGregor facility is used for post-flight disassembly and defueling of the Dragon spacecraft.
+
+The company purchased the McGregor, Texas, testing facilities of defunct Beal Aerospace, where it refitted the largest test stand at the facilities for Falcon 9 engine testing. SpaceX has made a number of improvements to the facility since purchase, and has also extended the size of the facility by purchasing several pieces of adjacent farmland. In 2011, the company announced plans to upgrade the facility for launch testing a VTVL rocket,[90] and then constructed a half-acre concrete launch facility in 2012 to support the Grasshopper test flight program.[91]
+
+
+SpaceX McGregor engine test bunker, September 2012
+SpaceX builds all of its rocket engines and thrusters at its main facility in Hawthorne, California where the largest SpaceX campus is located, and where most of the high-technology components are engineered. A test facility in McGregor, Texas is one of the secondary locations where the company tests each new engine off of the assembly line, as well as those being developed for future missions to orbit and beyond"[92] before each one can be used on a flight mission. As of October 2012, the McGregor facility has seven test stands that are operated "18 hours a day, six days a week"[92] and is building more test stands because production is ramping up and the company has a large manifest in the next several years.
+
+The Dragon spacecraft, following use on a space mission, splashdown and recovery, are shipped to McGregor for de-fueling, cleanup, and refurbishment for potential reuse in future flight missions.
+
+In May 2013, SpaceX announced that the high-altitude, high-velocity flight test program of the F9R Development vehicles—the second generation of the SpaceX experimental VTVL suborbital technology-demonstrator—would be conducted at Spaceport America near Las Cruces, New Mexico. SpaceX signed a three-year lease with the spaceport[93][94] and has constructed a 30 by 30 metres (98 ft × 98 ft) pad at Spaceport America, 7 kilometres (4.3 mi) southwest of the spaceport's main campus. It will lease the pad for US$6,600 per month plus US$25,000 per Grasshopper flight. The spaceport administrator expects SpaceX to be operational at the Spaceport sometime between October 2013 and February 2014, and that is the time that the lease payments will begin.[94][95]
+
+Flight operations[edit]
+Main article: SpaceX launch facilities
+
+The first Falcon 1 at Vandenberg AFB. This vehicle was removed from VAFB due to delays and eventually launched from Kwajalein.
+SpaceX currently uses two orbital launch sites—Cape Canaveral Air Force Station Space Launch Complex 40 and Vandenberg Air Force Base, Space Launch Complex 4—and have announced plans for two more. SpaceX has indicated that they see a niche for each of the four orbital facilities and that they have sufficient launch business to fill each pad.[96] In addition, SpaceX utilizes two facilities for suborbital launch operations and flight tests, the SpaceX Rocket Development and Test Facility in McGregor, Texas and a high-altitude flight test facility at Spaceport America in New Mexico.
+
+Cape Canaveral space launch complex 40 (SLC-40) was used to launch Falcon 9 into low-earth and geostationary orbits, while Vandenberg AFB SLC-4E was used for payloads to polar orbits. The Vandenberg site has also been intended for Falcon Heavy launches, potentially starting in 2015.[97] As part of SpaceX's booster reusability program, the former Launch Complex 13 at Cape Canaveral, now renamed Landing Zone 1, has been designated for use for Falcon 9 first-stage booster landings.
+
+All Falcon 1 launches took place at the Ronald Reagan Ballistic Missile Defense Test Site, Omelek Island, Kwajalein Atoll, Marshall Islands (northern Pacific Ocean). SpaceX abandoned Omelek when the Falcon 1 was retired.
+
+New commercial-only launch site[edit]
+Main article: SpaceX private launch site
+
+Landing Zone 1 sign at the former Cape Canaveral Air Force Station Launch Complex 13
+After considering potential locations including Alaska, California, Florida,[98] Texas, Virginia,[99] Georgia,[100] and Puerto Rico,[101] on August 4, 2014 Texas Governor Rick Perry and SpaceX CEO Elon Musk announced SpaceX selected a location near Brownsville, Texas for a new commercial-only launch facility.[102]
+
+The proposed location for the new commercial-mission-only spaceport is in south Texas near Brownsville.[103] The FAA released the draft Environmental Impact Statement for the proposed Texas facility in April 2013, and "found that 'no impacts would occur' that would force the Federal Aviation Administration to deny SpaceX a permit for rocket operations,"[104][104] and issued the permit in July 2014.[105] SpaceX started construction on the new launch facility in 2014 with production ramping up in the latter half of 2015,[106] with the first launches from the facility no earlier than 2016.[107] Real estate packages at the location have been named by SpaceX with names based on the theme "Mars Crossing".[108][109]
+
+Crewed-mission leased launch site[edit]
+As of December 2013, SpaceX has entered negotiations to lease Launch Complex 39A at the Kennedy Space Center in Florida, following NASA's decision to lease the unused complex out as part of a bid to reduce annual operation and maintenance costs.[110] The SpaceX bid is for exclusive use of the launch complex to support their future crewed missions. A competing bid for commercial use of the launch complex was submitted by Jeff Bezos' Blue Origin, who was bidding for a shared non-exclusive use of the complex such that the launchpad can interface with multiple vehicles, and costs can be shared over the long term. One potential shared user in the Blue Origin notional plan was United Launch Alliance.[111]
+
+NASA collaborations[edit]
+Commercial cargo contracts[edit]
+Main article: Commercial Orbital Transportation Services
+
+The COTS 2 Dragon is berthed to the ISS by Canadarm2.
+On 18 August 2006, NASA announced that SpaceX had won a NASA Commercial Orbital Transportation Services (COTS) contract to demonstrate cargo delivery to the International Space Station (ISS) with a possible option for crew transport.[112] This contract, designed by NASA to provide "seed money" for developing new boosters, paid SpaceX $278 million to develop the Falcon 9 launch vehicle, with incentive payments paid at milestones culminating in three demonstration launches.[113] In December 2008 SpaceX and Orbital Sciences Corporation each won a Commercial Resupply Services (CRS) contract. That of SpaceX is for at least 12 missions for $1.6 billion to carry supplies and cargo to and from the ISS.[114] On 9 December 2010, the launch of the COTS Demo Flight 1 mission, SpaceX became the first privately funded company to successfully launch, orbit and recover a spacecraft.
+
+The original NASA contract called for the COTS Demo Flight 1 to occur the second quarter of 2008;[115] this flight was delayed several times, occurring at 15:43 UTC on 8 December 2010.[116] Dragon was successfully deployed into orbit, circling the Earth twice, and then made a controlled reentry burn that put it on target for a splashdown in the Pacific Ocean off the coast of Mexico.[117] With Dragon's safe recovery, SpaceX become the first private company to launch, orbit, and recover a spacecraft; prior to this mission, only government agencies had been able to recover orbital spacecraft.[117]
+
+According to the original schedule, in COTS Demo Flight 2 the Dragon spacecraft would make its second flight and would rendezvous with the ISS but not be berthed. The third flight would see Dragon being berthed to the ISS.[115] However, after the success of the first mission, NASA conditionally agreed on 15 July 2011 that the two flights would be combined, and the next Dragon mission was to have Dragon being berthed with the ISS.[118] On 9 December 2011, NASA formally approved the merger of the COTS 2 and 3 missions into the COTS 2 flight, but yet again delayed the tentative launch date by another month to 7 February 2012.[119] However, on 16 January 2012, SpaceX announced it needed more time for engineering tests, and postponed the launch date again, with no replacement date initially announced.[120] On 19 May at approximately 4:55AM EDT the launch for the COTS 2+ mission was automatically aborted when the pressure in one of the engine chambers was higher than expected. The COTS Demo Flight 2 launch was postponed to 22 May 2012, at which point it succeeded in putting the Dragon spacecraft into orbit. Several days later, the Dragon capsule successfully berthed with the International Space Station, marking the first time that a private spacecraft had accomplished this feat.[121][122]
+
+Commercial crew contracts[edit]
+Main article: Commercial Crew Development
+SpaceX is planning a crewed Dragon/Falcon 9 flight in future years when it expects to have a fully certified, human-rated launch escape system incorporated into the spacecraft.[123] NASA's Commercial Crew Development (CCDev) program intends to develop commercially operated manned spacecraft that are capable of delivering crew to the ISS. SpaceX did not participate during the first round, however during the second round of the program NASA awarded SpaceX with a contract worth $75 million to further develop their launch escape system, test a crew accommodations mock-up and to further progress the Falcon 9/Dragon crew transportation design.[124][125] SpaceX later submitted a proposal for the third round of the CCDev program which became Commercial Crew Integrated Capability (CCiCap).[126]
+
+On 3 August 2012, NASA announced new agreements with SpaceX and two other companies to design and develop the next generation of U.S. human spaceflight capabilities, enabling a launch of astronauts from U.S. soil in the next five years. Advances made by these companies under newly signed Space Act Agreements through the agency's CCiCap initiative are intended to ultimately lead to the availability of commercial human spaceflight services for government and commercial customers. As part of this agreement, SpaceX was awarded $440 million, to continue development and testing of its Dragon V2 spacecraft.[127]
+
+On 16 September 2014, NASA chose SpaceX and Boeing as the two companies that will be funded to develop systems to transport U.S. crews to and from the space station. SpaceX won $2.6B to complete and certify Dragon V2 by 2017. (Boeing won $4.2B to complete and certify their CST-100.) The contracts include at least one crewed flight test with at least one NASA astronaut aboard. Once Crew Dragon achieves NASA certification, the contract requires SpaceX to conduct at least two, and as many as six, crewed missions to the space station.[128]
+
+"Red Dragon" Mars mission concept[edit]
+Main article: Red Dragon (spacecraft)
+In addition to SpaceX's privately funded plans for an eventual Mars mission, NASA Ames Research Center had developed a concept called Red Dragon: a low-cost Mars mission that would use Falcon Heavy as the launch vehicle and trans-Martian injection vehicle, and the Dragon capsule to enter the Martian atmosphere. The concept was originally envisioned for launch in 2018 as a NASA Discovery mission, then alternatively for 2022, but as of September 2015 it has not been yet formally submitted for funding within NASA.[129] The objectives of the mission would be return the samples from Mars to Earth at a fraction of the cost of the NASA own return-sample mission now projected at 6 billion dollars.[129]
+
+Other contracts[edit]
+On 2 May 2005, SpaceX announced that it had been awarded an Indefinite Delivery/Indefinite Quantity (IDIQ) contract for Responsive Small Spacelift (RSS) launch services by the United States Air Force, which could allow the Air Force to purchase up to $100 million worth of launches from the company.[130] On 22 April 2008, NASA announced that it had awarded an IDIQ Launch Services contract to SpaceX for Falcon 1 and Falcon 9 launches. The contract will be worth up to $1 billion, depending on the number of missions awarded. The contract covers launch services ordered by 30 June 2010, for launches through December 2012.[131] Musk stated in the same 2008 announcement that SpaceX has sold 14 contracts for flights on the various Falcon vehicles.[131]
+
+In December 2012, SpaceX announced its first two launch contracts with the United States Department of Defense. "The United States Air Force Space and Missile Systems Center awarded SpaceX two Evolved Expendable Launch Vehicle (EELV)-class missions:" Deep Space Climate Observatory (DSCOVR) and Space Test Program 2 (STP-2), to be launched in 2014 and 2015, respectively. DSCOVR was launched on a Falcon 9 launch vehicle while STP-2 will be launched on a Falcon Heavy.[132]
+
+SpaceX announced on 15 March 2010 that it would launch SES-8, a medium-sized communications satellite for SES, on a Falcon 9 vehicle, and it was successfully launched on 3 December 2013.[133] SES was SpaceX's first contract for a geostationary communications satellite launch.[58][133] In June 2010, SpaceX was awarded the largest-ever commercial space launch contract, worth $492 million, to launch Iridium satellites using Falcon 9 rockets.[134]
+
+On 26 May 2015, the United States Air Force announced that the Falcon 9 was certified for launching "national security space missions," which allows SpaceX to contract launch services to the Air Force for any payloads classified as national security. The first anticipated contract available to SpaceX will be in June 2015, with the GPS III satellite built by Lockheed Martin.[135] According to Fox News, United Launch Alliance is currently the only provider other than SpaceX equipped and certified to launch national security payloads.[136] In a statement, United Launch Alliance responded to the newly certified company “We welcome today’s announcement and look forward to competing with SpaceX and other new entrants," and followed by writing "The fact is, we could not be more passionate and proud of our work, our people and our record of success."[136][137]
+
+On 14 September 2015, SpaceX announced in a press release two new orders:[138]
+
+Launch of a communications satellite for HISPASAT on a Falcon 9
+Launch of Saudi Arabian Arabsat 6A communications satellite on a Falcon Heavy
+In the press release, SpaceX also stated they currently have over 60 missions on manifest representing over $7B under contract.
+
+Launch market competition and pricing pressure[edit]
+Main article: Space launch market competition
+SpaceX's low launch prices (less than $2,500 per pound to orbit for Falcon 9 v1.1 and $1,000 for Falcon Heavy),[139] especially for communication satellites flying to geostationary (GTO) orbit, have resulted in market pressure on its competitors to lower their own prices. The communications satellites launch market had been dominated in the years preceding 2013 by Europe's Arianespace (flying Ariane 5) and International Launch Services (ILS) (flying Russia's Proton vehicle).[140] By late 2013, with a published price of US$56.5 million per launch to low Earth orbit, "Falcon 9 rockets [were] already the cheapest in the industry. Reusable Falcon 9s could drop the price by an order of magnitude, sparking more space-based enterprise, which in turn would drop the cost of access to space still further through economies of scale."[141]
+
+SpaceX capabilities and prices are affecting the global market considerably. Arianespace requested in early 2014 that European governments provide additional subsidies to face the competition from SpaceX.[142][143] European satellite operators are pushing the ESA to reduce Ariane 5 and the future Ariane 6 rocket launch prices as a result of competition from SpaceX. According to one Arianespace managing director, "It's quite clear there's a very significant challenge coming from SpaceX," he said. "Therefore things have to change ... and the whole European industry is being restructured, consolidated, rationalised and streamlined."[144]
+
+By November 2014, space media reported that SpaceX had "already begun to take market share" from Arianespace.[145] In 2014, Falcon 9 GTO mission pricing was approximately US$15 million less than a launch on a Chinese Long March 3B.[146] However, the Chinese Government and the Great Wall Industry company—which markets the Long March for commsat missions—made a policy decision to maintain commsat launch prices at approximately US$70 million.[147] SpaceX capabilities and lower launch prices have also begun to affect the market for launch of US military payloads, where for nearly a decade the large US launch provider United Launch Alliance (ULA) had faced no competition for the military launches.[148] In October 2014 ULA announced a major restructuring of processes and workforce in order to decrease launch costs by half, in part as a result of competition from SpaceX.[149][150] In May 2015, ULA stated that it would go out of business unless it won commercial and civil satellite launch orders to offset an expected slump in U.S. military and spy launches.[151] Jean Botti, Director of innovation for Airbus (which makes the Ariane 5) warned that "those who don't take Elon Musk seriously will have a lot to worry about."[152]
+
+When the final numbers were in for 2014, SpaceX had won nine contracts out of 20 that were competed worldwide in 2014 at commercial launch service providers.[153] This was the first year in some time that no commercial launches were booked on the Russian (Proton) and Russian-Ukrainian (Zenit) launch service providers.[153] SpaceX launched their first communication satellite to geosynchronous orbit only in late 2013.
+
+SpaceX has publicly indicated that if they are successful with developing the reusable technology, launch prices in the US$5 to 7 million range for the reusable Falcon 9 are possible.[154]
+
+Commercial and government launch contracts summary[edit]
+As of January 2013, SpaceX has a purely commercial launch manifest of "23 missions scheduled over the next 4 years, exclusive of US government flights, Dragonlab flights and the anticipated demo flight for Falcon Heavy"—of a total of 40 flights scheduled through 2017."[155]
+
+On 3 December 2013 SpaceX launched its first satellite into geostationary orbit, SES-8, entering the major commercial launch market.[58] SpaceX prices undercut its major competitors, the Ariane 5 and Proton, in this market,[59] and SpaceX has at least 10 further geostationary orbit flights on its books.[58] Moreover, SpaceX prices for Falcon 9 and Falcon Heavy are much lower than the projected prices for the new Ariane 5 ME upgrade and its Ariane 6 successor, projected to be available in 2018 and 2021, respectively.[156] As of December 2013, SpaceX has a total of 50 future launches under contract; two-thirds of them are for commercial customers.[57]
+
+SpaceX is, however, making a concerted effort to be able to make competitive bids for US military launches of EELV-class payloads. The government certified the Falcon 9 v1.1 for national security launches in May 2015,[157] and the earliest EELV launches that could be contracted with SpaceX as of March 2014 would be in late 2016.[158]
+
+Space vehicles[edit]
+
+
+SpaceX’s Falcon 9 rocket carrying the Dragon spacecraft, lifts off during the COTS Demo Flight 1 on 8 December 2010.
+SpaceX is currently manufacturing two main space launch vehicles: the large Evolved Expendable Launch Vehicle (EELV)-class Falcon 9,[159] which flew successfully into orbit on its maiden launch on 4 June 2010[160] and the super-heavy class Falcon Heavy, which is scheduled to make its first flight in early 2016. SpaceX also manufactures the Dragon, a pressurized orbital spacecraft that is launched on top of a Falcon 9 booster to carry cargo to low-Earth orbit, and the follow-on Dragon V2 spacecraft, currently in the process of being human-rated through a variety of design reviews and flight tests that began in 2014.[161][162]
+
+It formerly built and flew the Falcon 1 launch vehicle, which made its first successful flight on 28 September 2008,[160][163]
+
+A Falcon 5 and Falcon 9 Air launcher were also planned, but development was stopped on both vehicles before hardware was manufactured, in favor of pursuing development on other launch vehicles.[164]
+
+Falcon launch vehicles[edit]
+Main article: Falcon (rocket family)
+
+The Falcon 1 prototype at SpaceX's assembly facilities.
+SpaceX has flown, or is developing, several orbital launch vehicles: the Falcon 1, Falcon 9, and Falcon Heavy. As of May 2015, the Falcon 9 v1.1 is in active use and the Falcon Heavy is under development.
+
+
+From left to right, Falcon 1, Falcon 9 v1.0, three versions of Falcon 9 v1.1, and two versions of Falcon Heavy.
+The Falcon 1 was a small rocket capable of placing several hundred kilograms into low earth orbit.[160] It functioned as an early test-bed for developing concepts and components for the larger Falcon 9.[160] Falcon 1 made five flights in 2006–2009. On 28 September 2008, the Falcon 1 succeeded in reaching orbit on its fourth attempt, becoming the first privately funded, liquid-fueled rocket to do so.[165] The Falcon 1 carried its first successful commercial payload, RazakSAT, into orbit on 13 July 2009, on its fifth launch.[166] SpaceX has now retired the Falcon 1 and transferred Falcon 1 class payloads to be secondary payloads on the Falcon 9, which proved to be more efficient.
+
+Falcon 1e
+Falcon 5
+The Falcon 9 is an EELV-class medium-lift vehicle capable of delivering up to 10,450 kilograms (23,000 lb) to orbit, and is intended to compete with the Delta IV and the Atlas V rockets, as well as other launch providers around the world. It has nine Merlin engines in its first stage.[167] The Falcon 9 rocket successfully reached orbit on its first attempt in June 2010. The second flight for the Falcon 9 vehicle was the COTS Demo Flight 1 on 8 December 2010, the first launch under the NASA Commercial Orbital Transportation Services (COTS) contract, and was similarly successful.[131] Its third flight, COTS Demo Flight 2, launched on 22 May 2012, and was the first commercial spacecraft to reach and dock with the International Space Station.[168] Further launches have continued through 2013-15 with a total of 20 successful launches and one failure.
+
+Falcon 9 Air
+Falcon 9 v1.0
+Falcon 9 v1.1
+Grasshopper, F9R Dev1, and F9R Dev2 prototype VTVL test vehicles
+The Falcon Heavy began development as a heavy-lift configuration using a cluster of three Falcon 9 first stage cores with a total 27 Merlin 1D engines and propellant crossfeed in 2011.[169][170] [171] SpaceX is aiming for the first demonstration flight of the Falcon Heavy in early 2016.[172]
+
+Dragon[edit]
+
+The Dragon spacecraft approaching the ISS
+
+The interior of the COTS 2 Dragon
+Main article: Dragon (spacecraft)
+In 2005, SpaceX announced plans to pursue a human-rated commercial space program through the end of the decade.[173] The Dragon spacecraft is intended to carry up to seven astronauts into orbit and beyond.[174] It is a conventional blunt-cone ballistic capsule, which is capable of carrying 7 people or a mixture of personnel and cargo to and from low Earth orbit.[174] It is launched atop a Falcon 9 launch vehicle. The spacecraft's nosecone is jettisoned shortly after launch in the cargo version, but is expected to be kept during the full flight of the crewed version.
+
+In 2006, NASA announced that the company was one of two selected to provide crew and cargo resupply demonstration contracts to the ISS under the COTS program.[175] SpaceX demonstrated cargo resupply and eventually crew transportation services using the Dragon.[168] NASA's original plan called for COTS demonstration flights between 2008 and 2010.[176][177] SpaceX was not able to meet that schedule, but eventually began test-flights in 2010.
+
+The first flight of a Dragon structural test article took place 4 June 2010, from Launch Complex 40 at Cape Canaveral Air Force Station during the maiden flight of the Falcon 9 launch vehicle; the mock-up Dragon lacked avionics, heat shield, and other key elements normally required of a fully operational spacecraft but contained all the necessary characteristics to validate the flight performance of the launch vehicle.[178] An operational Dragon spacecraft was launched on 8 December 2010 aboard COTS Demo Flight 1, the Falcon 9's second flight, and safely returned to Earth after two orbits, completing all its mission objectives.[161] In 2012, Dragon began conducting regular resupply services to the ISS with a contract for 12 flights.
+
+In 2009 and 2010, Musk suggested on several occasions that plans for a human-rated variant of Dragon were proceeding and had a 2- to 3-year time line to completion.[179][180] On 18 April 2011, NASA issued a $75 million contract, as part of its second-round commercial crew development (CCDev) program, for SpaceX to develop an integrated launch escape system for Dragon in preparation for human-rating it as a crew transport vehicle to the ISS.[181] This Space Act Agreement runs from April 2011 until May 2012, when the next round of contracts are to be awarded.[181] NASA approved the technical plans for the system in October 2011, and SpaceX began building prototype hardware.[123]
+
+In 2012, Dragon became the first commercial spacecraft to deliver cargo to the International Space Station.[168] SpaceX delivered cargo to the ISS in March 2013 and again in April 2014.[182]
+
+SpaceX plans to launch its first crew-occupied Dragon spacecraft in a test flight by 2017.[183] Elon Musk has stated the personal goal of eventually enabling human exploration and settlement of Mars.[67]
+
+Other concepts under development[edit]
+Further information: Falcon (rocket family) § Under development, Falcon (rocket family) § Proposed future concepts and MCT launch vehicle
+Several modifications or additions to the Falcon rocket family are currently being developed by SpaceX. These include three vehicles that further technology development objectives toward reusable launch systems: the Grasshopper test vehicle and the commercial launch vehicles Reusable Falcon 9 and Reusable Falcon Heavy.
+
+DragonFly is a test vehicle to develop propulsive and propulsive-assist landing technologies in a series of low-altitude flight tests planned to be conducted in 2015-2016.[184]
+
+A major goal of SpaceX has been to develop a rapidly reusable launch system. As of March 2013, the publicly announced aspects of this technology development effort include an active test campaign of the low-altitude, low-speed Grasshopper vertical takeoff, vertical landing (VTVL) technology demonstrator rocket,[90][91][185] and a high-altitude, high-speed Falcon 9 post-mission booster return test campaign where—beginning in mid-2013, with the sixth overall flight of Falcon 9—every first stage will be instrumented and equipped as a controlled descent test vehicle to accomplish propulsive-return over-water tests.[186] SpaceX COO Gwynne Shotwell said at the Singapore Satellite Industry Forum in summer 2013 "If we get this [reusable technology] right, and we’re trying very hard to get this right, we’re looking at launches to be in the US$5 to 7 million range, which would really change things dramatically."[154]
+
+
+Comparison of rocket core diameters for SpaceX launch vehicles: (from left) Falcon 9 v1.0 (2010), Falcon 9 v1.1 (2013), and the 10-meter diameter, 9-Raptor, first-stage booster for the Mars Colonial Transporter.
+SpaceX has announced the high-level description of a future super-heavy lift launch vehicle that will consist of one or three 10-meter (33 ft)-diameter cores and use nine Raptor LOX/methane engines to power each core.[187][188][189] The MCT launch vehicle is also intended to be reusable and will produce approximately 40 or 120 meganewtons (9,000,000 or 27,000,000 lbf) of thrust at liftoff.[188] Development of the Mars Colonial Transporter and its super-heavy launch vehicle will be the major focus of SpaceX once Falcon Heavy and DragonCrew are flying regularly.[189]
+
+On June 15, 2015, SpaceX announced that they would sponsor a Hyperloop competition, and would build a 1-mile-long (1.6 km) subscale test track near SpaceX's headquarters for the competitive events, which could be held as early as June 2016.[190][191]
+
+Rocket engines[edit]
+Main article: SpaceX rocket engine family
+Since the founding of SpaceX in 2002, the company has developed three families of rocket engines — Merlin and Kestrel for launch vehicle propulsion, and the Draco RCS control thrusters. SpaceX is currently developing two further rocket engines: SuperDraco and Raptor.
+
+Merlin is a family of rocket engines developed by SpaceX for use on its Falcon rocket family of launch vehicles. Merlin engines use LOX and RP-1 as propellants in a gas-generator power cycle. The Merlin engine was originally designed for sea recovery and reuse. The injector at the heart of Merlin is of the pintle type that was first used in the Apollo Program for the lunar module landing engine. Propellants are fed via a single shaft, dual impeller turbo-pump. Kestrel is a LOX/RP-1 pressure-fed rocket engine, and was used as the Falcon 1 rocket's second stage main engine. It was built around the same pintle architecture as SpaceX's Merlin engine but does not have a turbo-pump, and is fed only by tank pressure. Its nozzle was ablatively cooled in the chamber and throat and radiatively cooled, and is fabricated from a high strength niobium alloy.
+
+Draco are hypergolic liquid-propellant rocket engines that utilize a mixture of monomethyl hydrazine fuel and nitrogen tetroxide oxidizer. Each Draco thruster generates 400 newtons (90 lbf) of thrust.[192] They are used as reaction control system (RCS) thrusters on both the Dragon spacecraft and the Falcon 9 launch vehicle second-stage.[193] SuperDraco are a much more powerful version of the Draco thrusters, which will be initially used as landing and launch escape system engines on the version 2 Dragon spacecraft, Dragon V2.
+
+SpaceX has signaled on multiple occasions that it is interested in developing much larger engines than it has done to date. A conceptual plan for the Raptor project was first unveiled in a June 2009 AIAA presentation.[194] In November 2012, Musk announced a new direction for propulsion side of the company: developing LOX/methane rocket engines for launch vehicle main and upper stages.[195] The Raptor LOX/methane engine will use the more efficient staged combustion cycle,[196] a departure from the open cycle gas generator cycle system and LOX/RP-1 propellants that the current Merlin 1 engine series uses."[196] The rocket would be more powerful than previously released publicly, with over 1,000,000 lbf (4,400 kN) of thrust.[187] Raptor engine component-level testing will begin in 2014.[197] The Raptor engine will likely be the first in a family of methane-based engines SpaceX intends to build.[197]
+
+
